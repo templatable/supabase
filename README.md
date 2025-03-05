@@ -1,5 +1,5 @@
 # Supabase Template
-This is a NextJS raw template, Other templates are derived from this template.
+A NextJS Template with Supabase helper functions, inherited from [Raw Template](https://github.com/templatable/raw)
 
 ## Tech Stack
 - Next.js
